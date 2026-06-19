@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://caldi9qwhm.github.io/main-ssl-ayx-com-2/sitemap.xml
